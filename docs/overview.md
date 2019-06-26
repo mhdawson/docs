@@ -15,12 +15,12 @@ These are configurable technology stacks built with popular runtimes and framewo
 [More info on Appsody Stacks](link)
 
 ### Appsody Hub
-The central point of control for Appsody Stacks. This is where you can find available stacks, create new stacks or modify existing ones. You can utilise what's there in the public repo, and/or clone to provide a private/interal Hub based on your requirements. By making changes to the Stacks in the Hub, you are able to mass-apply updates to applications which have been built on these, simply by restarting the application.
+The central point of control for Appsody Stacks. This is where you can find available stacks, create new stacks or modify existing ones. You can utilize what's in the public repo, and/or clone to provide a private/internal Hub based on your requirements. By making changes to the Stacks in the Hub, you are able to mass-apply updates to applications which have been built on these, simply by restarting the application.
 
 [More info on Appsody Hub](link)
 
 ### Appsody CLI
-No project is complete without a nice new CLI to play with. The Appsody CLI is powerful and intiutive, and allows developers to discover available stacks, bring them into their local development environment, and build/run/test/deploy locally. The Docker container for your application built as a result, can integrated with Tekton pipelines as described [here](TODO) and deployed to Kubernetes cloud environements.
+No project is complete without a nice new CLI to play with. The Appsody CLI is powerful and intuitive, and allows developers to discover available stacks, bring them into their local development environment, and build/run/test/deploy locally. The Docker container, which is built for your application, can be integrated with Tekton pipelines as described [here](TODO) and deployed to Kubernetes cloud environments.
 
 [More info on Appsody CLI](link)
 
@@ -32,7 +32,7 @@ No project is complete without a nice new CLI to play with. The Appsody CLI is p
 
 We welcome all contributions, see [CONTRIBUTING](../CONTRIBUTING) and come chat to us in [Slack](if you'd like to get involved).
 
-Want to see your framework available as an Appsody Stack? See [Link](here) and join the #content-providers channel to introduce yourself!
+Want to see your framework available as an Appsody Stack? See [Link](here) and join the #content-providers channel on the above Slack to introduce yourself!
 
 
 ## Documentation
